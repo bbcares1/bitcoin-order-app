@@ -47,4 +47,5 @@ testem.log
 Thumbs.db
 server/node_modules
 server/.env
-server/package-lock.json
+server/package-lock.json.venv/
+.venv/
